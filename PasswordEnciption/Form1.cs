@@ -41,7 +41,7 @@ namespace PasswordEncryption
             comboBox1.ValueMember = "ID";          // Hidden value
         }
         // Sample class
-        
+      
         private void btnEncrypt_Click(object sender, EventArgs e)
         {
             int id = 0;
